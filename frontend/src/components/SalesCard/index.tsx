@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import NotificationButton from '../NotificationNutton'
-import './style.css'
+import NotificationButton from '../NotificationNutton';
+import './style.css';
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 

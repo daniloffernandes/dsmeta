@@ -1,6 +1,6 @@
 
-import './style.css'
-import logo from '../../assets/socicon_apple.svg'
+import './style.css';
+import logo from '../../assets/socicon_apple.svg';
 
 function Header() {
     return (
